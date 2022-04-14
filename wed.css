@@ -1,0 +1,13 @@
+#city{
+   margin-top: 30px;
+   
+}
+body{
+   background-image: url("https://www.itl.cat/pngfile/big/138-1384912_weather-wallpapers.jpg");
+
+   background-size: 100%;
+}
+#con{
+   text-align: center;
+   margin-top: 100px;
+}
